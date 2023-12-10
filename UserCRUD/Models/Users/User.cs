@@ -1,4 +1,6 @@
-﻿namespace UserCRUD.Models.Users
+﻿using System;
+
+namespace UserCRUD.Models.Users
 {
     public class User
     {
